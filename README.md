@@ -57,6 +57,7 @@ List of non-official ports of LangChain to other languages.
 
 ### Low-code
 
+- [Manifest](https://omfang.io/manifest-overview) — Converts any webpage into a structured JSON action map of what an AI agent can do on that page — buttons, forms, inputs, required fields, and cross-action dependencies. No screenshots, no brittle selectors.
 - [Flowise](https://github.com/FlowiseAI/Flowise): Drag & drop UI to build your customized LLM flow using LangchainJS ![GitHub Repo stars](https://img.shields.io/github/stars/FlowiseAI/Flowise?style=social)
 - [Langflow](https://github.com/logspace-ai/langflow): LangFlow is a UI for LangChain ![GitHub Repo stars](https://img.shields.io/github/stars/logspace-ai/langflow?style=social)
 - [Flock](https://github.com/Onelevenvy/flock): Flock is a workflow-based low-code platform for rapidly building chatbots, RAG, and coordinating multi-agent teams![GitHub Repo stars](https://img.shields.io/github/stars/Onelevenvy/flock?style=social)
